@@ -3,8 +3,7 @@ import numpy as np
 z=np.zeros(10)
 print(z)
 
-o=np.ones(10)
-print(o)
+
 
 o=np.ones(10)
 print(o+4)
